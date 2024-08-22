@@ -30,7 +30,7 @@ This script creates firewall rules for an Azure PostgreSQL server based on IP ad
 ### 3. Run the Script
 
 1. **Save the Script**:
-   - Save the improved script as `create_firewall_rules.sh`.
+   - Save the script as `create_firewall_rules.sh`.
 
 2. **Make the Script Executable**:
    ```bash
