@@ -1,6 +1,13 @@
 # Azure Snapshot Management Script
 
 
+## Overview
+
+This PowerShell script manages Azure snapshots across multiple subscriptions. It performs the following tasks:
+- Retrieves all Azure subscriptions.
+- Excludes specified subscriptions from processing.
+- Deletes snapshots based on certain criteria, including tagging and age.
+
 ## Usage
 
 ### 1. Install Azure PowerShell
@@ -197,4 +204,3 @@ Deletes snapshots that are older than the defined threshold.
 
 - Ensure the CSV file (`scriptReport.csv`) is correctly path-specified if running in a different directory.
 - Modify the `$deletionDate` as needed based on your retention policy.
-
