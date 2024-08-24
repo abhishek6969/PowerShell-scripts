@@ -61,3 +61,11 @@ Before running the script, authenticate to your Azure account:
 
 2. **Open PowerShell**:
 
+3. **Execute the Script**:
+   ```powershell
+   .\TagVMScript.ps1
+   ```
+   - Ensure the `taggingvalue.csv` is in the same directory as the script.
+
+4. **Check the Output**:
+   - The script generates a `tagScriptReport.csv` file in the same directory, logging the status of each tagging operation.
