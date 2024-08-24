@@ -58,7 +58,7 @@ Before running the script, authenticate to your Azure account:
 ### 4. Run the Script
 
 1. **Save the Script**:
-   - Save the provided script in a `.ps1` file, e.g., `AlertScript.ps1`.
+   - Save the provided script in a `.ps1` file, e.g., `AlertScript.ps1`.Update the Action group ID that is to be used
 
 2. **Open PowerShell**:
 
