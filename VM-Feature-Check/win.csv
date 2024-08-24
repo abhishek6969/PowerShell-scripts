@@ -1,0 +1,8 @@
+﻿name,subscription,rg
+vm1,subname,rgname1
+vm2,subname,rgname2
+vm3,subname,rgname1
+vm4,subname,rgname1
+vm5,subname,rgname5
+vm6,subname1,rgname6
+vm7,subname2,rgname6
